@@ -1,0 +1,5 @@
+{
+  "prefix": "!",
+  "warnLimit": 3,
+  "tempBanRole": "TEMP_BANNED"
+}
