@@ -4,8 +4,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+<<<<<<< HEAD
   },
   "dependencies": {
     "discord.js": "^14.25.1"
+=======
+    
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+>>>>>>> 9d2fb6ae4d6003de6dd34f5204dc640c5bb54364
   }
 }
