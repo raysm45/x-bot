@@ -1,3 +1,6 @@
+console.log("BOT FILE JALAN");
+console.log("TOKEN ADA:", !!process.env.TOKEN);
+
 require("dotenv").config();
 const { Client, GatewayIntentBits, Collection } = require("discord.js");
 
